@@ -6,6 +6,8 @@
   
   More details and results are in the report.
   
+  Download all .m file and .data file and put them into one folder. Run main.m to see the result. PAA_segmentations can be change to change the number of segments in PAA, this can affect the accuracy of classification using PAA dataset. 
+  
   
 
 # Author:     
