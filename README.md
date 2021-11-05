@@ -4,7 +4,7 @@
   
   Fall 2021 CSE 454 Project 2- Time Series Project
   
-  More details are in the report.
+  More details and results are in the report.
   
   
 
